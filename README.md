@@ -1,3 +1,5 @@
+## 警告，封号，请勿使用
+
 ## Proxying Copilot API to OpenAI's GPT-4 API
 
 ### Usage
